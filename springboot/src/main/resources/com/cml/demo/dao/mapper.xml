@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.cml.demo.dao.Mapper">
+<!--  @Update("update sys_user set username=#{user.username},password=#{user.password},email=#{user.email},phoneNum=#{user.phoneNum}" +
+            "where id=#{user.id}")-->
+
+
+<!--     @Select("select * from sys_user where username like #{username} limit #{pageNum}, #{pageSize}")-->
+
+</mapper>
